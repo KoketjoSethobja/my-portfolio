@@ -19,7 +19,7 @@ function Projects(){
                         Node Js (Express), MySQL, and Cloudinary. This is my first ever
                         deployed project.
                     </p> 
-                    <a href="https://koketjocomgallery.netlify.app/" target="_blank">View Project</a>
+                    <a href="https://koketjocomgallery.netlify.app/" target="_blank" rel="noreferrer">View Project</a>
                 </div>
 
                 <div className="project-n project2">
@@ -32,7 +32,7 @@ function Projects(){
                         members to view, add, and subtract miles from their miles account. The project
                         was built using Java with Springboot, MySQL, and Swagger UI. 
                     </p>
-                    <a href="https://github.com/KoketjoSethobja/AccountSystem" target="_blank">View Project</a>
+                    <a href="https://github.com/KoketjoSethobja/AccountSystem" target="_blank" rel="noreferrer">View Project</a>
                 </div>
 
             </div>
