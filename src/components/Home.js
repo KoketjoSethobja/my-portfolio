@@ -7,7 +7,7 @@ function Home(){
             <div className='home-info'>
                 <h1 className='typewriter'>
                     I'm&nbsp;
-                    <Typewriter                        
+                    <Typewriter
                         options={{
                             strings: [' Koketjo Sethobja', ' a Software Developer', ' a Web Developer'],
                             autoStart: true,
@@ -21,7 +21,7 @@ function Home(){
                     I enjoy developing websites and softwares to help businesses and
                     individuals do better online.
                 </p>
-                <a href="">
+                <a href="https://drive.google.com/uc?export=download&id=1argQldunpWX9-jawK-VPVl_dMEiG9cCP">
                     Download <span style={{color: "#ff521d"}}>CV</span>
                 </a>              
             </div>
