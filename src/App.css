@@ -593,12 +593,14 @@ h2 {
         align-items: center;
         justify-content: center;
         flex-direction: row;
+        flex-wrap: wrap;
         width: 100%;
     }
     .project-n {
         width: 30%;  
-        min-height: 50vh;   
+        min-height: 65vh;   
         margin: 0 0.5em;
+        font-size: clamp(1rem, 5rem)
     }    
     /* CERTIFICATES PAGE */
     .certificates {

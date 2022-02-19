@@ -35,6 +35,19 @@ function Projects(){
                     <a href="https://github.com/KoketjoSethobja/AccountSystem" target="_blank" rel="noreferrer">View Project</a>
                 </div>
 
+                <div className="project-n project3">
+                    <div className="preview">
+                        <img src="../weatherapp.png" alt="weatherapp pic" />                                 
+                    </div>    
+                    <h2>Weather App</h2>
+                    <p>
+                        The objective was to create a weather app using openweathermap api. 
+                        The project
+                        was built using only React Js with ES6. 
+                    </p>
+                    <a href="https://koketjoweather.netlify.app/" target="_blank" rel="noreferrer">View Project</a>
+                </div>
+
             </div>
         </div>
     )
